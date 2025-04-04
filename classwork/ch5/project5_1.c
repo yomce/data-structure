@@ -4,7 +4,7 @@
 
 #define Stack_size 10           // 스택 사이즈를 해당 크기로 초기화
 
-//stack_data 구주체 정의, 구조체는 정수형인 data를 가지고 있다.
+//stack_data 구조체 정의, 구조체는 정수형인 data를 가지고 있다.
 typedef struct stack_data {
     int data;
 }stack_data;
